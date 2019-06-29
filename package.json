@@ -6,9 +6,14 @@
   "scripts": {
    "test": "jest"
   },
-  "keywords": [],
+  "keywords": [
+    "env",
+    "explorer",
+    "abhiit89",
+    "env-explorer"
+  ],
   "author": "Abhinav Nath Gupta",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^24.8.0"
   }
