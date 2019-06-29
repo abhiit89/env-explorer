@@ -1,3 +1,3 @@
 module.exports = {
-    sum: require("./src/explorer")
+    showEnv: require("./src/explorer")
 };

@@ -1,4 +1,6 @@
-function sum(a, b) {
-    return a + b;
+var Process = require('process');
+
+function showEnv(a, b) {
+    console.log(Process.env)
 }
-module.exports = sum;
+module.exports = showEnv;
