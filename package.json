@@ -1,11 +1,11 @@
 {
   "name": "env-explorer",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-   "test": "jest",
-   "start": "node localTest.js"
+    "test": "jest",
+    "start": "node localTest.js"
   },
   "keywords": [
     "env",
