@@ -17,3 +17,9 @@ const explorer = require("env-explorer");
 
 explorer.showEnv();
 ```
+
+## Runkit Document
+```
+https://runkit.com/abhiit89/env-explorer-playground
+
+```
