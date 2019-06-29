@@ -1,1 +1,3 @@
-return require("./src/explorer");
+module.exports = {
+    sum: require("./src/explorer")
+};
