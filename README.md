@@ -3,7 +3,6 @@ This is the module which exposes method to retrieve the environment varaibles fr
 
 [![install size](https://packagephobia.now.sh/badge?p=env-explorer)](https://packagephobia.now.sh/result?p=env-explorer)
 
-Removes all spaces from a string.
 
 ## Install
 
